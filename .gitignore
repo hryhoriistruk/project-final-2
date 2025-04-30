@@ -1,0 +1,13 @@
+.idea
+out
+target
+*.iml
+logs
+attachments
+*.patch
+
+
+/src/test/resources/pgdata-test/
+/src/main/resources/pgdata/
+/pgdata-test/
+/pgdata/
